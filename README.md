@@ -10,8 +10,7 @@
 - [⭐ Base de Datos](https://github.com/santiagojorda/FIUBA-base-de-datos) Catedra Merlino.
 - [⭐ Programación Concurrente](https://github.com/santiagojorda/FIUBA-programacion-concurrente)
 - [⭐ Taller de Programación](https://github.com/santiagojorda/FIUBA-taller-de-programacion) Catedra Veiga.
-  
-- [Redes](https://github.com/santiagojorda/FIUBA-redes) Catedra Hamellin.
+- [⭐ Redes](https://github.com/santiagojorda/FIUBA-redes) Catedra Hamellin.
 - [Modelación Numérica](https://github.com/santiagojorda/FIUBA-modelacion-numerica)
 - [Empresas de Base Tecnológica II](https://github.com/santiagojorda/FIUBA-Empresas-base-tecnologica-II)
 - [Algoritmos y Programación III](https://github.com/santiagojorda/FIUBA-Algoritmos-III-Algocraft)
