@@ -17,5 +17,5 @@ Si es la primera vez que caés por acá y no me conocías, te cuento: al igual q
 - [Gestión de Desarrollo de Sistemas de Información](https://github.com/santiagojorda/FIUBA-gestion-de-desarrollo-de-sistemas-informaticos)
 - [Modelos y Optimización](https://github.com/santiagojorda/FIUBA-modelos-y-optimizacion)
 
-### Coffee Time ☕️
-Si te sirven mis repos (imagino que sí, si no no sé qué haces leyendo todo esto) y sos un re copado, te podes poner la 10 e invitarme un cafecito o dale un ⭐ que te sirvio
+### Si te sirvieron ☕️
+Imagino que sí, si no no sé qué haces leyendo todo esto y sos un re copado, te podes poner la 10 e invitarme un cafecito o dale un ⭐ que te sirvio
