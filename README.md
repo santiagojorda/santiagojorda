@@ -1,8 +1,6 @@
 ## Hi there 👋
 Si es la primera vez que caés por acá y no me conocías, te cuento: al igual que otros estudiantes de FIUBA, compilo y organizo material de las materias que curso y lo subo a GitHub. En mis repos vas a encontrar resúmenes, ejercicios, apuntes y recursos de varias materias de la carrera de Ingeniería en Informática.
 
-🔎 ¿No sabés si algo de esto te puede servir? Te adelanto un resumen de lo que hay (¡con el nombre de cada materia y la cátedra cuando corresponde!). Si te interesa algún tema, ¡seguro encontrás algo útil!
-
 - [⭐ Probabilidad y Estadística](https://github.com/santiagojorda/FIUBA-probabilidad-y-estadistica) Todas las catedras
 - [⭐ Sistemas Operativos](https://github.com/santiagojorda/FIUBA-sistemas-operativos) Catedra unica Mendez.
 - [⭐ Ingeniería de Software I](https://github.com/santiagojorda/FIUBA-ingenieria-software-I) Catedra Villagra.
