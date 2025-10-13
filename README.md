@@ -5,16 +5,16 @@
 
 (Aquí iría el listado de tus repositorios y descripciones de cada uno, como hiciste en tu ejemplo. Como GitHub no me deja ver tu lista de repos, completá acá con el nombre y breve descripción de cada repo, por ejemplo:)
 
-- [⭐ Probabilidad y Estadística](https://github.com/santiagojorda/FIUBA-probabilidad-y-estadistica)
-- [⭐ Sistemas Operativos](https://github.com/santiagojorda/FIUBA-sistemas-operativos)
-- [⭐ Ingeniería de Software I](https://github.com/santiagojorda/FIUBA-ingenieria-software-I)
-- [⭐ Ingeniería de Software II](https://github.com/santiagojorda/FIUBA-ingenieria-software-II)
-- [⭐ Redes](https://github.com/santiagojorda/FIUBA-redes)
-- [⭐ Base de Datos](https://github.com/santiagojorda/FIUBA-base-de-datos)
-- [⭐ Modelación Numérica](https://github.com/santiagojorda/FIUBA-modelacion-numerica)
+- [⭐ Probabilidad y Estadística](https://github.com/santiagojorda/FIUBA-probabilidad-y-estadistica) 
+- [⭐ Sistemas Operativos](https://github.com/santiagojorda/FIUBA-sistemas-operativos) 
+- [⭐ Ingeniería de Software I](https://github.com/santiagojorda/FIUBA-ingenieria-software-I) Catedra Villagra.
+- [⭐ Ingeniería de Software II](https://github.com/santiagojorda/FIUBA-ingenieria-software-II) Catedra Paez.
+- [Redes](https://github.com/santiagojorda/FIUBA-redes) Catedra Hamellin.
+- [Base de Datos](https://github.com/santiagojorda/FIUBA-base-de-datos) Catedra Merlino.
+- [Modelación Numérica](https://github.com/santiagojorda/FIUBA-modelacion-numerica) 
 - [⭐ Programación Concurrente](https://github.com/santiagojorda/FIUBA-programacion-concurrente)
-- [⭐ Taller de Programación](https://github.com/santiagojorda/FIUBA-taller-de-programacion)
-- [⭐ Empresas de Base Tecnológica II](https://github.com/santiagojorda/FIUBA-Empresas-base-tecnologica-II)
+- [⭐ Taller de Programación](https://github.com/santiagojorda/FIUBA-taller-de-programacion) Catedra Veiga.
+- [Empresas de Base Tecnológica II](https://github.com/santiagojorda/FIUBA-Empresas-base-tecnologica-II)
 - [Algoritmos y Programación III](https://github.com/santiagojorda/FIUBA-Algoritmos-III-Algocraft)
-- [Gestión de Desarrollo de Sistemas de Información](https://github.com/santiagojorda/FIUBA-gestion-de-desarrollo-de-sistemas-informa)
+- [Gestión de Desarrollo de Sistemas de Información](https://github.com/santiagojorda/FIUBA-gestion-de-desarrollo-de-sistemas-informaticos)
 - [Modelos y Optimización](https://github.com/santiagojorda/FIUBA-modelos-y-optimizacion)
