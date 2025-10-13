@@ -12,7 +12,7 @@
 - [⭐ Taller de Programación](https://github.com/santiagojorda/FIUBA-taller-de-programacion) Catedra Veiga.
 - [⭐ Redes](https://github.com/santiagojorda/FIUBA-redes) Catedra Hamellin.
 - [⭐ Modelación Numérica](https://github.com/santiagojorda/FIUBA-modelacion-numerica) Catedra Cavalliere.
-- [Empresas de Base Tecnológica II](https://github.com/santiagojorda/FIUBA-Empresas-base-tecnologica-II)
+- [⭐ Empresas de Base Tecnológica II](https://github.com/santiagojorda/FIUBA-Empresas-base-tecnologica-II)
 - [Algoritmos y Programación III](https://github.com/santiagojorda/FIUBA-Algoritmos-III-Algocraft)
 - [Gestión de Desarrollo de Sistemas de Información](https://github.com/santiagojorda/FIUBA-gestion-de-desarrollo-de-sistemas-informaticos)
 - [Modelos y Optimización](https://github.com/santiagojorda/FIUBA-modelos-y-optimizacion)
