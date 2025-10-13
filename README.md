@@ -1,5 +1,5 @@
 ## Hi there 👋
-Si es la primera vez que caés por acá y no me conocías, te cuento: al igual que otros estudiantes de FIUBA, compilo y organizo material de las materias que curso y lo subo a GitHub. En mis repos vas a encontrar resúmenes, ejercicios, apuntes y recursos de varias materias de la carrera de Ingeniería en Informática.
+Si es la primera vez que caés por acá y no me conocías, te cuento: compilo y organizo material de FIUBA de las materias que curso y lo subo a GitHub. En mis repos vas a encontrar resúmenes, ejercicios, apuntes y recursos de varias materias de la carrera de Ingeniería en Informática.
 
 - [⭐ Probabilidad y Estadística](https://github.com/santiagojorda/FIUBA-probabilidad-y-estadistica) Todas las catedras
 - [⭐ Sistemas Operativos](https://github.com/santiagojorda/FIUBA-sistemas-operativos) Catedra unica Mendez.
