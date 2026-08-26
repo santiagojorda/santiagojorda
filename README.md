@@ -13,8 +13,8 @@ Si es la primera vez que caés por acá y no me conocías, te cuento: compilo y 
 - [⭐ Modelación Numérica](https://github.com/santiagojorda/FIUBA-modelacion-numerica) Catedra Cavalliere.
 - [⭐ Empresas de Base Tecnológica I](https://github.com/santiagojorda/FIUBA-Empresas-base-tecnologica-I)
 - [⭐ Empresas de Base Tecnológica II](https://github.com/santiagojorda/FIUBA-Empresas-base-tecnologica-II)
+- [⭐Gestión de Desarrollo de Sistemas de Información](https://github.com/santiagojorda/FIUBA-gestion-de-desarrollo-de-sistemas-informaticos)
 - [Algoritmos y Programación III](https://github.com/santiagojorda/FIUBA-Algoritmos-III-Algocraft)
-- [Gestión de Desarrollo de Sistemas de Información](https://github.com/santiagojorda/FIUBA-gestion-de-desarrollo-de-sistemas-informaticos)
 - [Modelos y Optimización](https://github.com/santiagojorda/FIUBA-modelos-y-optimizacion)
 
 ### Si te sirvieron ☕️
