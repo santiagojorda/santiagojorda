@@ -18,4 +18,4 @@ Si es la primera vez que caés por acá y no me conocías, te cuento: compilo y 
 - [Modelos y Optimización](https://github.com/santiagojorda/FIUBA-modelos-y-optimizacion)
 
 ### Si te sirvieron ☕️
-Imagino que sí, si no no sé qué haces leyendo todo esto y sos un re copado, te podes poner la 10 e invitarme un [cafecito](https://cafecito.app/santiagojorda) o dale un ⭐ que te sirvio
+Imagino que sí, si no no sé qué haces leyendo todo esto y sos un re copado, te podes poner la 10 dale un ⭐ al repo que te sirvio
