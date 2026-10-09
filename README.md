@@ -5,12 +5,12 @@
 
 Estudiante de **Ingeniería en Informática en FIUBA** (UBA) 🇦🇷 · **Productor musical**
 
-Si caíste por acá de casualidad y no me conoces, te cuento: soy músico, productor y baterista profesional, me la paso armando plugins y scripts para producción musical. 
+Si caiste por aca de casualidad y no me conoces, te cuento: soy musico, productor y baterista profesional, me la paso armando plugins y scripts para producción musical. 
 Por otro lado, voy compilando y organizando material de las materias que curso en la FIUBA y lo subo todo aca.
 
 ## 🚀 Proyectos
-- [🎹 Maschine MK3 as Ableton Push](https://github.com/santiagojorda/maschine-mk3-as-ableton-push) — Convertí tu Maschine MK3 en un controlador estilo Ableton Push con pantallas a color en vivo, mixer dinámico y control total para Live 12.
-- [📦 Baul](https://github.com/santiagojorda/Baul) — App nativa de Android que monitorea carpetas de la galería y sube automáticamente fotos/videos a Google Photos o Drive según reglas configurables, liberando espacio local de forma segura.
+- [🎹 Maschine MK3 as Ableton Push](https://github.com/santiagojorda/maschine-mk3-as-ableton-push) — Converti tu Maschine MK3 en un controlador como Ableton Push con pantallas en vivo, mixer dinamico y control total para Live 12.
+- [📦 Baul](https://github.com/santiagojorda/Baul) — App nativa de Android que monitorea carpetas de la galeria y sube automáticamente fotos/videos a Google Photos o Drive segun reglas configurables, liberando espacio local de forma segura.
 
 ---
 
