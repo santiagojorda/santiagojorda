@@ -7,7 +7,7 @@ Estudiante de **Ingeniería en Informática en FIUBA** (UBA) 🇦🇷 · Product
 
 ## 🚀 Proyectos
 - [🎹 Maschine MK3 as Ableton Push](https://github.com/santiagojorda/maschine-mk3-as-ableton-push) — Convertí tu Maschine MK3 en un controlador estilo Ableton Push con pantallas a color en vivo, mixer dinámico y control total para Live 12.
-- [📦 Baul](https://github.com/santiagojorda/Baul) — App nativa de Android (Kotlin + Jetpack Compose) que monitorea carpetas de la galería y sube automáticamente fotos/videos a Google Photos o Drive según reglas configurables, liberando espacio local de forma segura.
+- [📦 Baul](https://github.com/santiagojorda/Baul) — App nativa de Android que monitorea carpetas de la galería y sube automáticamente fotos/videos a Google Photos o Drive según reglas configurables, liberando espacio local de forma segura.
 
 ---
 
