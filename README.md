@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@santiagojorda-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/santiagojorda)
 
 Estudiante de **Ingeniería en Informática en FIUBA** (UBA) 🇦🇷 · **Productor musical**
+
 Si caíste por acá de casualidad y no me conoces, te cuento: soy músico, productor y baterista profesional, me la paso armando plugins y scripts para producción musical. 
 Por otro lado, voy compilando y organizando material de las materias que curso en la FIUBA y lo subo todo aca.
 
