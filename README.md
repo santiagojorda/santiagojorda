@@ -2,25 +2,12 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Maicol%20Session-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ImqHw-zkiZQ&list=PLxk2dEOPjuEYO00P264yMStEUhukVkO1y)
 [![Instagram](https://img.shields.io/badge/Instagram-@santiagojorda-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/santiagojorda)
-[![Manual Web](https://img.shields.io/badge/Web-Maschine%20as%20Push-00D2B4?style=for-the-badge&logo=ableton)](https://santiagojorda.github.io/maschine-mk3-as-ableton-push/)
 
-Estudiante de **Ingeniería en Informática en FIUBA** (UBA) 🇦🇷 · Productor musical y hardware hacker 🎹  
-*Como ingeniero informático y como músico, me apasiona programar soluciones a medida para mi workflow: unir el software con el hardware para llevar la creatividad y las sesiones en vivo al siguiente nivel.*
+Estudiante de **Ingeniería en Informática en FIUBA** (UBA) 🇦🇷 · Productor musical
 
----
-
-## 🎹 Proyecto Destacado: [Maschine MK3 as Ableton Push](https://github.com/santiagojorda/maschine-mk3-as-ableton-push)
-
-[![Maschine MK3 as Push Standby](https://raw.githubusercontent.com/santiagojorda/maschine-mk3-as-ableton-push/main/docs/images/maschine-mk3-as-push-standby.png)](https://github.com/santiagojorda/maschine-mk3-as-ableton-push)
-
-Convertí tu **Native Instruments Maschine MK3** en un potente controlador estilo **Ableton Push** para **Live 12**:
-- 📺 **Pantallas a color nativas:** grilla de clips en tiempo real, mixer gráfico con vúmetros dinámicos, control de plugins y browser integrado.
-- 🎛️ **Navegación tipo Push:** lanzamiento de clips y escenas, edición y atajos con el encoder 4D y perillas táctiles.
-- 🛑 **Modo Reposo inteligente (Standby):** protege las pantallas y evita toques accidentales.
-- 📖 **[Manual Web Interactivo](https://santiagojorda.github.io/maschine-mk3-as-ableton-push/)** con más de 100 operaciones y diagramas de hardware.
-- 📺 **[Maicol Session: Ableton Push + Maschine MK3](https://www.youtube.com/watch?v=ImqHw-zkiZQ&list=PLxk2dEOPjuEYO00P264yMStEUhukVkO1y)** (sesión en vivo).
-
-👉 **[Ver Repositorio: maschine-mk3-as-ableton-push](https://github.com/santiagojorda/maschine-mk3-as-ableton-push)**
+## 🚀 Proyectos
+- [🎹 Maschine MK3 as Ableton Push](https://github.com/santiagojorda/maschine-mk3-as-ableton-push) — Convertí tu Maschine MK3 en un controlador estilo Ableton Push con pantallas a color en vivo, mixer dinámico y control total para Live 12.
+- [📦 Baul](https://github.com/santiagojorda/Baul) — App nativa de Android (Kotlin + Jetpack Compose) que monitorea carpetas de la galería y sube automáticamente fotos/videos a Google Photos o Drive según reglas configurables, liberando espacio local de forma segura.
 
 ---
 
