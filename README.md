@@ -3,9 +3,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Maicol%20Session-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ImqHw-zkiZQ&list=PLxk2dEOPjuEYO00P264yMStEUhukVkO1y)
 [![Instagram](https://img.shields.io/badge/Instagram-@santiagojorda-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/santiagojorda)
 
-Estudiante de **Ingeniería en Informática en FIUBA** (UBA) 🇦🇷 · Productor musical
-Si es la primera vez que caés por acá y no me conocías, te cuento: soy musico, productor y baterista profesional, hago plugins y scripts para produccion musical. Tambien compilo y organizo material de FIUBA de las materias que curso y lo subo a GitHub. En mis repos vas a encontrar resúmenes, ejercicios, apuntes y recursos de varias materias de la carrera de Ingeniería en Informática.
-
+Estudiante de **Ingeniería en Informática en FIUBA** (UBA) 🇦🇷 · **Productor musical**
+Si caíste por acá de casualidad y no me conoces, te cuento: soy músico, productor y baterista profesional, me la paso armando plugins y scripts para producción musical. 
+Por otro lado, voy compilando y organizando material de las materias que curso en la FIUBA y lo subo todo aca.
 
 ## 🚀 Proyectos
 - [🎹 Maschine MK3 as Ableton Push](https://github.com/santiagojorda/maschine-mk3-as-ableton-push) — Convertí tu Maschine MK3 en un controlador estilo Ableton Push con pantallas a color en vivo, mixer dinámico y control total para Live 12.
