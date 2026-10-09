@@ -1,4 +1,4 @@
-# Hi there 👋 Aca Santi (Maicol)
+# Hi there 👋 Aca Santi // Maicol
 
 [![YouTube](https://img.shields.io/badge/YouTube-Maicol%20Session-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ImqHw-zkiZQ&list=PLxk2dEOPjuEYO00P264yMStEUhukVkO1y)
 [![Instagram](https://img.shields.io/badge/Instagram-@santiagojorda-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/santiagojorda)
