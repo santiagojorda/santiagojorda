@@ -4,6 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@santiagojorda-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/santiagojorda)
 
 Estudiante de **Ingeniería en Informática en FIUBA** (UBA) 🇦🇷 · Productor musical
+Si es la primera vez que caés por acá y no me conocías, te cuento: soy musico, productor y baterista profesional, hago plugins y scripts para produccion musical. Tambien compilo y organizo material de FIUBA de las materias que curso y lo subo a GitHub. En mis repos vas a encontrar resúmenes, ejercicios, apuntes y recursos de varias materias de la carrera de Ingeniería en Informática.
+
 
 ## 🚀 Proyectos
 - [🎹 Maschine MK3 as Ableton Push](https://github.com/santiagojorda/maschine-mk3-as-ableton-push) — Convertí tu Maschine MK3 en un controlador estilo Ableton Push con pantallas a color en vivo, mixer dinámico y control total para Live 12.
@@ -12,8 +14,6 @@ Estudiante de **Ingeniería en Informática en FIUBA** (UBA) 🇦🇷 · Product
 ---
 
 ## 📚 Material de FIUBA (Ingeniería en Informática)
-
-Si es la primera vez que caés por acá y no me conocías, te cuento: compilo y organizo material de **FIUBA** de las materias que curso y lo subo a GitHub. En mis repos vas a encontrar resúmenes, ejercicios, apuntes y recursos de varias materias de la carrera de Ingeniería en Informática:
 
 - [⭐ Probabilidad y Estadística](https://github.com/santiagojorda/FIUBA-probabilidad-y-estadistica) Todas las cátedras.
 - [⭐ Sistemas Distribuidos](https://github.com/santiagojorda/FIUBA-sistemas-distribuidos) Cátedra Roca.
