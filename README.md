@@ -10,7 +10,7 @@ Por otro lado, voy compilando y organizando material de las materias que curso e
 
 ## 🚀 Proyectos
 - [🎹 Maschine MK3 as Ableton Push](https://github.com/santiagojorda/maschine-mk3-as-ableton-push) — Converti tu Maschine MK3 en un controlador como Ableton Push con pantallas en vivo, mixer dinamico y control total para Live 12.
-- [📦 Baul](https://github.com/santiagojorda/Baul) — App nativa de Android que monitorea carpetas de la galeria y sube automáticamente fotos/videos a Google Photos o Drive segun reglas configurables, liberando espacio local de forma segura.
+- [📦 Baul](https://github.com/santiagojorda/Baul) — App de Android que monitorea carpetas de la galeria y sube automáticamente fotos/videos a Google Photos o Drive segun reglas configurables, liberando espacio local de forma segura.
 
 ---
 
